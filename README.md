@@ -43,8 +43,8 @@ Ensure the following Arduino libraries are installed:
 - Improve power efficiency and data accuracy
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source.
 
 ## Author
-[Your Name]
+Simul Ahmed
 
